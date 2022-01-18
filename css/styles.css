@@ -1,9 +1,13 @@
+body {
+  background-color: #e5e5e5;
+}
+
 #portfolio .card {
-    margin: 0 auto;
-    max-width: 1156px;
-    max-height: 496px
+  margin: 0 auto;
+  max-width: 70%;
+  /* max-height: 496px; */
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
