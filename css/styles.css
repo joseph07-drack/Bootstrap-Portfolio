@@ -16,3 +16,13 @@ ul {
   color: #fff !important;
   background-color: #4053FC;
 }
+
+#showcase {
+  background-image: url("/img/bg-header.png");
+  background-color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 105vh;
+  border-bottom-left-radius: 120px;
+  margin-bottom: 50px;
+}
