@@ -26,3 +26,12 @@ ul {
   border-bottom-left-radius: 120px;
   margin-bottom: 50px;
 }
+
+#about {
+  background-color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 105vh;
+  border-top-right-radius: 120px;
+  margin-bottom: 50px;
+}
