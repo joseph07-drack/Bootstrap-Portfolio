@@ -3,3 +3,7 @@
     max-width: 1156px;
     max-height: 496px
 }
+
+ul {
+    list-style: none;
+}
