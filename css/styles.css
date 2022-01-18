@@ -48,3 +48,7 @@ ul {
 #contact textarea {
   width: 100%;
 }
+
+.d-flex {
+  flex-wrap: wrap;
+}
