@@ -18,7 +18,7 @@ ul {
 }
 
 #showcase {
-  background-image: url("/img/bg-header.png");
+  background-image: url("/img/bg1.svg");
   background-color: #fff;
   background-size: cover;
   background-repeat: no-repeat;
@@ -33,5 +33,18 @@ ul {
   background-repeat: no-repeat;
   min-height: 105vh;
   border-top-right-radius: 120px;
-  margin-bottom: 50px;
+  margin-bottom: -90px;
+}
+
+#contact {
+  background-image: url("/img/bg2.svg");
+  background-color: #6070FF;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 105vh;
+  border-top-left-radius: 120px;
+}
+
+#contact textarea {
+  width: 100%;
 }
