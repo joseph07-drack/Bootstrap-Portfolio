@@ -4,13 +4,12 @@
 
 > Moving from Setting up a mobile version skeleton to a desktop version skeleton version of a Portofolio website with a refernce to a figma UI using Bootstrap
 
+img/screenshot.png
 ## Built With
 
 - HTML and CSS
 - Bootstrap
-- npm, npx,Linters
-
-## Live Domo
+## Live Demo
 
 [Live demo](https://joseph07-drack.github.io/Bootstrap-Portfolio/)
 
@@ -18,7 +17,7 @@
 
 To get a local copy up and running follow these simple example steps.
 
-- Having the basics understanding of **HTML,CSS, Git, GitHub and GitHub Flow,Linters**
+- Having the basics understanding of **HTML,CSS, Git, GitHub and GitHub Flow**
 
 - Installing Bootstrap on your local machine
 

@@ -12,13 +12,18 @@ ul {
   list-style: none;
 }
 
-#portfolio .btn:hover {
+#portfolio .btn:hover,
+#contact .btn:hover {
   color: #fff !important;
   background-color: #4053FC;
 }
 
+#contact .btn {
+  margin: 0 auto;
+}
+
 #showcase {
-  background-image: url("img/bg1.svg");
+  background-image: url("/img/bg1.svg");
   background-color: #fff;
   background-size: cover;
   background-repeat: no-repeat;
