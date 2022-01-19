@@ -23,7 +23,7 @@ ul {
 }
 
 #showcase {
-  background-image: url(/img/bg1.svg);
+  background-image: url("./img/bg1.svg");
   background-color: #fff;
   background-size: cover;
   background-repeat: no-repeat;
