@@ -4,7 +4,7 @@
 
 > Moving from Setting up a mobile version skeleton to a desktop version skeleton version of a Portofolio website with a refernce to a figma UI using Bootstrap
 
-![screenshot](./img/screenshot.png)
+![screenshot](./img/Screenshot.png)
 ## Built With
 
 - HTML and CSS
